@@ -3,7 +3,7 @@ import random
 flavours = ["C", "S", "V", "M", "P", "R"]
 
 try:
-  print(f"ben inc. Flavour Combo gen\nFlavours: {flavours}\n")
+  print(f"Flavour Combo gen\nFlavours: {flavours}\n")
 
   printed = []
   nofindattempts, attempts = 0, 0
